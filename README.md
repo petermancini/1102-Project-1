@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Austin Marshburn, Peter Mancici, Daniel Pickett
+Austin Marshburn, Peter Mancini, Daniel Pickett
 1102-001
 Project 1
 This program asks the user for their party size. Depending on the amount of 
