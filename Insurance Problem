@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main(){
+        int age,cost;
+        
+        printf("Enter age: ");
+        scanf("%d",&age);
+        
+        
+        if(age<25)
+                cost=5000;
+        else if(age>25 && age<35)
+                cost=3500;
+        else if(age>=35 && age<50)
+                cost=2800;
+        else
+                cost=1500;
+                
+        printf("Insurance $%d",cost);
+}
